@@ -1,0 +1,10 @@
+type: hyperskill
+title: Duplicate File Handler
+language: English
+summary: Duplicate File Handler is a useful tool that can free some space on your
+  drive. Write a handler that checks and compares files in a folder, displays the
+  result, and removes duplicates.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/176</a>
+programming_language: Python
+content:
+- Duplicate File Handler
+mode: Study
